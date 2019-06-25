@@ -1,4 +1,4 @@
-# Type - Name
+# Tipo - Nome
 
 ## Descrição
 
